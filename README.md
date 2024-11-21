@@ -33,3 +33,28 @@ This project is a simple implementation of the classic Snake game using Python's
 4.Game Over:
 - The game ends if the snake collides with the boundary or any part of its body.
 - The game ends, the player's final score is displayed.
+
+## Code Features
+
+## Game Elements:
+1. Game Screen:
+- A bordered play area of size 600x500 pixels with a black background.
+
+2. Snake:
+- Initially a single green block that grows as it eats fruits.
+
+3. Fruit:
+- A randomly placed white square that repositions each time the snake eats it.
+
+4.Score Display:
+- Shows the player's current score at the top of the screen.
+
+## Functional Highlights:
+1. Keyboard Control:
+- The snake responds to arrow key inputs for direction changes.
+2. Collision Detection:
+- Detects collision with the boundary or the snake's own body to end the game.
+3. Dynamic Snake Growth:
+- Adds new red blocks to the snake's body each time it eats a fruit.
+4. Adjustable Speed:
+- The game speeds up slightly after each fruit is eaten.
