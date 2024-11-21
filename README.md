@@ -58,3 +58,10 @@ This project is a simple implementation of the classic Snake game using Python's
 - Adds new red blocks to the snake's body each time it eats a fruit.
 4. Adjustable Speed:
 - The game speeds up slightly after each fruit is eaten.
+
+## Troubleshooting
+1. Turtle Not Found:
+If Python can't find the turtle module, ensure you have Python 3.x installed correctly.
+
+2. Script Doesn't Run:
+Ensure Python is installed and added to the system's PATH.
