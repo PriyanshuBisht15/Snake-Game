@@ -18,15 +18,15 @@ This project is a simple implementation of the classic Snake game using Python's
 
 2.Controls:
  Use the arrow keys to control the snake's movement:
-   -Up Arrow: Move up
-  -Down Arrow: Move down
-  -Left Arrow: Move left
-  -Right Arrow: Move right
+ - Up Arrow: Move up
+ - Down Arrow: Move down
+ - Left Arrow: Move left
+ - Right Arrow: Move right
 
 3.Scoring:
-   -Each fruit eaten increases the score by 1.
-   -The snake grows longer with each fruit consumed.
+- Each fruit eaten increases the score by 1.
+- The snake grows longer with each fruit consumed.
 
 4.Game Over:
-   -The game ends if the snake collides with the boundary or any part of its body.
-   -When the game ends, the player's final score is displayed.
+- The game ends if the snake collides with the boundary or any part of its body.
+- The game ends, the player's final score is displayed.
