@@ -8,8 +8,8 @@ This project is a simple implementation of the classic Snake game using Python's
 4.Keyboard Controls: Use arrow keys to control the direction of the snake.
 
 ## Requirements
--Python 3.x
--Turtle module (included in Python's standard library)
+- Python 3.x
+- Turtle module (included in Python's standard library)
 
 
 ## How to Play
